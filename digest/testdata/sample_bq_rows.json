@@ -1,0 +1,14 @@
+[
+  {"project_id": "alpha-main", "project_name": "main", "service_id": "COMP", "service_name": "Compute Engine", "month": "2026-03", "net_cost": 10.00, "currency": "USD"},
+  {"project_id": "alpha-main", "project_name": "main", "service_id": "BQ", "service_name": "BigQuery", "month": "2026-03", "net_cost": 2.34, "currency": "USD"},
+  {"project_id": "alpha-main", "project_name": "main", "service_id": "COMP", "service_name": "Compute Engine", "month": "2026-02", "net_cost": 9.00, "currency": "USD"},
+  {"project_id": "alpha-main", "project_name": "main", "service_id": "BQ", "service_name": "BigQuery", "month": "2026-02", "net_cost": 1.20, "currency": "USD"},
+  {"project_id": "beta", "project_name": "beta", "service_id": "RUN", "service_name": "Cloud Run", "month": "2026-03", "net_cost": 3.21, "currency": "USD"},
+  {"project_id": "beta", "project_name": "beta", "service_id": "GCS", "service_name": "Cloud Storage", "month": "2026-03", "net_cost": 1.00, "currency": "USD"},
+  {"project_id": "beta", "project_name": "beta", "service_id": "RUN", "service_name": "Cloud Run", "month": "2026-02", "net_cost": 3.00, "currency": "USD"},
+  {"project_id": "beta", "project_name": "beta", "service_id": "GCS", "service_name": "Cloud Storage", "month": "2026-02", "net_cost": 1.00, "currency": "USD"},
+  {"project_id": "gamma", "project_name": "gamma", "service_id": null, "service_name": "(unknown service)", "month": "2026-03", "net_cost": 0.87, "currency": "USD"},
+  {"project_id": "gamma", "project_name": "gamma", "service_id": null, "service_name": "(unknown service)", "month": "2026-02", "net_cost": 0.90, "currency": "USD"},
+  {"project_id": null, "project_name": null, "service_id": "SUPPORT", "service_name": "Support", "month": "2026-03", "net_cost": 2.00, "currency": "USD"},
+  {"project_id": null, "project_name": null, "service_id": "SUPPORT", "service_name": "Support", "month": "2026-02", "net_cost": 2.00, "currency": "USD"}
+]
